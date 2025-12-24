@@ -33,8 +33,8 @@ export function SimpleFooter() {
             <h4 className="mb-4 text-white">Contact</h4>
             <ul className="space-y-2 text-sm text-gray-400">
               <li>
-                <a href="tel:604-555-5865" className="hover:text-white transition-colors">
-                  604-555-JUNK
+                <a href="tel:236-513-3999" className="hover:text-white transition-colors">
+                  236-513-3999
                 </a>
               </li>
               <li>

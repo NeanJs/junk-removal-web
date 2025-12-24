@@ -22,11 +22,11 @@ export function BookingHeader({ onBack }: BookingHeaderProps) {
           </div>
 
           <a
-            href="tel:604-555-5865"
+            href="tel:236-513-3999"
             className="flex items-center gap-2 text-primary hover:text-primary/80 transition-colors"
           >
             <Phone className="w-5 h-5" />
-            <span className="hidden sm:inline">604-555-JUNK</span>
+            <span className="hidden sm:inline">236-513-3999</span>
           </a>
         </div>
       </div>

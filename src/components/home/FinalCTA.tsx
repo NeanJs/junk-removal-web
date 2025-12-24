@@ -67,11 +67,11 @@ export function FinalCTA({ onGetQuote }: FinalCTAProps) {
             <Button
               variant="outline"
               size="lg"
-              onClick={() => (window.location.href = "tel:604-555-5865")}
+              onClick={() => (window.location.href = "tel:236-513-3999")}
               className="text-lg px-10 py-5 bg-transparent border-2 border-white text-white hover:bg-white/10"
             >
               <Phone className="w-5 h-5" />
-              Call 604-555-JUNK
+              Call Now
             </Button>
           </div>
 
@@ -82,8 +82,8 @@ export function FinalCTA({ onGetQuote }: FinalCTAProps) {
                 <Phone className="w-5 h-5" />
               </div>
               <p className="text-sm text-white/70 mb-1">Call or Text</p>
-              <a href="tel:604-555-5865" className="text-white hover:underline">
-                604-555-JUNK
+              <a href="tel:236-513-3999" className="text-white hover:underline">
+                236-513-3999
               </a>
             </div>
 

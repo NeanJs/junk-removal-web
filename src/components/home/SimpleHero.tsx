@@ -58,11 +58,11 @@ export function SimpleHero({ onGetQuote }: SimpleHeroProps) {
               <Button
                 variant="secondary"
                 size="lg"
-                onClick={() => window.location.href = "tel:604-555-5865"}
+                onClick={() => window.location.href = "tel:236-513-3999"}
                 className="text-lg px-10 py-5"
               >
                 <Phone className="w-5 h-5" />
-                Call 604-555-JUNK
+                Call Now
               </Button>
             </div>
 

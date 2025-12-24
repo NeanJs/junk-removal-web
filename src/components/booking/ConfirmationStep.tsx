@@ -161,7 +161,7 @@ export function ConfirmationStep({ quoteData, scheduleData, onStartOver }: Confi
         {/* Help Text */}
         <div className="text-center text-sm text-muted-foreground space-y-2">
           <p>
-            Questions? Call us at <a href="tel:604-555-5865" className="text-primary hover:underline">604-555-JUNK</a>
+            Questions? Call us at <a href="tel:236-513-3999" className="text-primary hover:underline">236-513-3999</a>
           </p>
           <p>
             or email <a href="mailto:info@metrovancouverjunk.ca" className="text-primary hover:underline">info@metrovancouverjunk.ca</a>

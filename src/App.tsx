@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { SimpleHero } from "./components/home/SimpleHero";
+import { Navbar } from "./components/home/Navbar";
 import { QuickInfo } from "./components/home/QuickInfo";
 import { HowItWorks } from "./components/home/HowItWorks";
 import { ServicesOverview } from "./components/home/ServicesOverview";
@@ -26,6 +27,7 @@ export default function App() {
 
   return (
     <div className="min-h-screen flex flex-col">
+      <Navbar onGetQuote={() => setShowBookingFlow(true)} />
       <SimpleHero onGetQuote={() => setShowBookingFlow(true)} />
       <QuickInfo />
       <HowItWorks />
